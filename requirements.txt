@@ -1,0 +1,21 @@
+# Core dependencies for the calculator project
+
+# GUI framework for the advanced calculator
+tkinter  # Usually included with Python, but listed for completeness
+
+# Math and scientific computing (for advanced features)
+numpy>=1.21.0
+
+# Optional: Enhanced math functions
+scipy>=1.7.0
+
+# Development and testing dependencies (optional)
+# Uncomment these lines if you want to install them by default
+# pytest>=7.0.0
+# pytest-cov>=4.0.0
+# black>=22.0.0
+# flake8>=5.0.0
+
+# Documentation (optional)
+# sphinx>=5.0.0
+# sphinx-rtd-theme>=1.0.0
